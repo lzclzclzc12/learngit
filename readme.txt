@@ -5,3 +5,5 @@ lzc
 Creating a new branch is quick.
 
 test clash
+
+new branch
